@@ -1,19 +1,19 @@
-What causes layout overflow issues in CSS?
+1.What causes layout overflow issues in CSS?
 
-Which is a better option Stack or Hamburger menu?
+2.Which is a better option Stack or Hamburger menu?
 
-How should I make the Hamburger menu appear only in mobile view?
+3.How should I make the Hamburger menu appear only in mobile view?
 
-What is the correct syntax to connect a style.css file to an HTML page?
+4.What is the correct syntax to connect a style.css file to an HTML page?
 
-Identify redundant or unnecessary lines in my HTML and CSS code.
+5.Identify redundant or unnecessary lines in my HTML and CSS code.
 
-Why is the Tab key not expanding Emmet abbreviations in VS Code?
+6.Why is the Tab key not expanding Emmet abbreviations in VS Code?
 
-How does padding affect element spacing and layout?
+7.How does padding affect element spacing and layout?
 
-What is the difference between position: fixed, relative, and absolute?
+8.What is the difference between position: fixed, relative, and absolute?
 
-Suggest any improvements to enhance the UI and responsiveness of my website.
+9.Suggest any improvements to enhance the UI and responsiveness of my website.
 
-Why did you tell to use translatex instead of translate?
+10.Why did you tell to use translatex instead of translate?
